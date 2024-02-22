@@ -60,7 +60,7 @@ public class Fraction {
    // returns fraction in string format
    public String toString() {
       // var for new string
-      String strFracton;
+      String strFraction;
       
       if (denom == 1)
          strFraction = "( " + num + " )";
